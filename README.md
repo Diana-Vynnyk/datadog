@@ -69,6 +69,10 @@ Old Host Notebook:
 
 [demo-index3](https://drive.google.com/file/d/1K4HMxXoOCmFkap6gp9v2F9gTNfm47lbf/view?usp=sharing)
 
+[exclussion-filter-for-demo-index1](https://drive.google.com/file/d/1rDwPFl6gU37ytFPkekrIxfrPe99AxRWK/view?usp=sharing)
+
+[exclussion-filter-for-demo-index2](https://drive.google.com/file/d/11HiwSGl0k0QbNsMnpqxzil0p0hE5BubX/view?usp=sharing)
+
 ## Events
 [Events](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
 
