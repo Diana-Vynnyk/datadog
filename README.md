@@ -51,7 +51,9 @@ Old Host Notebook:
 [-view2]()
 
 ## Logs
-[Logs](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
+[Logs-view1](https://drive.google.com/file/d/1BqhLzuI08Ca7M9Mr7NUEWkk3wYGYDcjt/view?usp=sharing)
+
+[Logs-redis-view2](https://drive.google.com/file/d/1802M7YgG4OLxigQju-llGxCOA685J_54/view?usp=sharing)
 
 [custom-processor-in-pipeline1](https://drive.google.com/file/d/1MM1rLw1JESGncRWRef1BEaHIY8i91sKP/view?usp=sharing)
 
