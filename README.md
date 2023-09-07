@@ -29,6 +29,8 @@ Old Host Notebook:
 
 [{{host.name}} is down - alert](https://drive.google.com/file/d/1KusjGzISZS2oWhVI-4gHkXq-EtYKNdZq/view?usp=sharing)
 
+[alert2](https://drive.google.com/file/d/1Zqe2B8OtpVoARr-BYHkyOjZUughUNlOZ/view?usp=sharing)
+
 [alert-view1](https://drive.google.com/file/d/1pI31I99mYnS6FFAKVtzb1PgOwzUWaKQS/view?usp=sharing)
 
 [alert-view2](https://drive.google.com/file/d/1eBfRGagyhWQOT-Ux3qoOlUuTfTLmwAlA/view?usp=sharing)
@@ -51,7 +53,9 @@ Old Host Notebook:
 ## Logs
 [Logs](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
 
-[-view2]()
+[custom-processor-in-pipeline1](https://drive.google.com/file/d/1MM1rLw1JESGncRWRef1BEaHIY8i91sKP/view?usp=sharing)
+
+[custom-processor-in-pipeline2](https://drive.google.com/file/d/1j3yJFg09q85OPwkcvySnz_1Dm8pG2a0K/view?usp=sharing)
 
 ## Events
 [Events](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
