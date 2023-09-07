@@ -29,6 +29,10 @@ Old Host Notebook:
 
 [{{host.name}} is down - alert](https://drive.google.com/file/d/1KusjGzISZS2oWhVI-4gHkXq-EtYKNdZq/view?usp=sharing)
 
+[alert-view1](https://drive.google.com/file/d/1pI31I99mYnS6FFAKVtzb1PgOwzUWaKQS/view?usp=sharing)
+
+[alert-view2](https://drive.google.com/file/d/1eBfRGagyhWQOT-Ux3qoOlUuTfTLmwAlA/view?usp=sharing)
+
 [{{host.name}} is down - view1](https://drive.google.com/file/d/1SjVd7UtPRef5hSYSYM9dewiae5q-ddgo/view?usp=sharing)
 
 [{{host.name}} is down - view2](https://drive.google.com/file/d/1TtFxZVdsJhxN0MEstGc-oXp9n9J_hNl-/view?usp=sharing)
