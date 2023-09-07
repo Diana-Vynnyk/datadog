@@ -86,9 +86,8 @@ Old Host Notebook:
 [exclussion-filter-for-demo-index2](https://drive.google.com/file/d/11HiwSGl0k0QbNsMnpqxzil0p0hE5BubX/view?usp=sharing)
 
 ## Events
-[Events](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
+[Events](https://drive.google.com/file/d/1eLr3-A6zAuWM1LZidYtG0V8CFE36a3_D/view?usp=sharing)
 
-[-view2]() 
 ## Integrations
 
 [docker-integration](https://drive.google.com/file/d/16uyQvJD93wZ3W-8JIWLD6NvVts2D8lWb/view?usp=sharing)
