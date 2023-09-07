@@ -59,6 +59,16 @@ Old Host Notebook:
 
 [custom-processor-in-pipeline2](https://drive.google.com/file/d/1j3yJFg09q85OPwkcvySnz_1Dm8pG2a0K/view?usp=sharing)
 
+[log-based-metric1](https://drive.google.com/file/d/1sgMCZjcKyteUSJ6M0zfZpUaXfV6EZbCF/view?usp=sharing)
+
+[log-based-metric2](https://drive.google.com/file/d/1QqgW3jjenrJwkSsCZpp-mg3N7r1rVjAN/view?usp=sharing)
+
+[demo-index1](https://drive.google.com/file/d/1BS7tBd8Q4AM13Rdddy7nsTLxS6vP6Hk9/view?usp=sharing)
+
+[demo-index2](https://drive.google.com/file/d/1ZFnCL0YCBWkJrE39EYTP_QDgQXyI6_55/view?usp=sharing)
+
+[demo-index3](https://drive.google.com/file/d/1K4HMxXoOCmFkap6gp9v2F9gTNfm47lbf/view?usp=sharing)
+
 ## Events
 [Events](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
 
