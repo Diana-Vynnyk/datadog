@@ -1,5 +1,6 @@
 # DATADOG
-results of work with Datadog
+
+[Results of work with Datadog](https://drive.google.com/drive/folders/126oB2Fh039T_qFN1q_XgOH89T3wak9I3?usp=sharing)
 
 ## Hosts
 [Hosts](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
@@ -55,6 +56,10 @@ Old Host Notebook:
 
 [Logs-redis-view2](https://drive.google.com/file/d/1802M7YgG4OLxigQju-llGxCOA685J_54/view?usp=sharing)
 
+[live-tail-view](https://drive.google.com/file/d/1Yrn98TkudL1SeB_8DQTRJMQCuc36P-Hr/view?usp=sharing)
+
+[logs-pipeline](https://drive.google.com/file/d/1u8hG1-4O_U3U6c6NnP3dmIXvNuGKmnvC/view?usp=sharing)
+
 [custom-processor-in-pipeline1](https://drive.google.com/file/d/1MM1rLw1JESGncRWRef1BEaHIY8i91sKP/view?usp=sharing)
 
 [custom-processor-in-pipeline2](https://drive.google.com/file/d/1j3yJFg09q85OPwkcvySnz_1Dm8pG2a0K/view?usp=sharing)
@@ -76,4 +81,7 @@ Old Host Notebook:
 ## Events
 [Events](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
 
-[-view2]()
+[-view2]() 
+## Integrations
+
+[docker-integration](https://drive.google.com/file/d/16uyQvJD93wZ3W-8JIWLD6NvVts2D8lWb/view?usp=sharing)
