@@ -26,9 +26,13 @@ Old Host Notebook:
 [Notebook-view2](https://drive.google.com/file/d/1ztaozKZo6WsxgNo_zmnrIiH4DRz4Y2S_/view?usp=sharing)
 
 ## Monitor
-[Monitor](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
+[{{host.name}} is down - view1](https://drive.google.com/file/d/1SjVd7UtPRef5hSYSYM9dewiae5q-ddgo/view?usp=sharing)
 
-[-view2]()
+[{{host.name}} is down - view2](https://drive.google.com/file/d/1TtFxZVdsJhxN0MEstGc-oXp9n9J_hNl-/view?usp=sharing)
+
+[{{host.name}} is down - view3](https://drive.google.com/file/d/1wBzoE7Gc2zPrr8K6hKdA3WPUOjH5t5z7/view?usp=sharing)
+
+[{{host.name}} is down - view4](https://drive.google.com/file/d/1l2ARvcRzERQp5dJef3LlTIa1dE-3dIiO/view?usp=sharing)
 
 ## Checks
 [app.http.response.code](https://drive.google.com/file/d/1p-sVYUdi2ui-rXDgeSdJovNr1x1xr8nE/view?usp=sharing)
