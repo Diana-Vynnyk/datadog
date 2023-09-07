@@ -3,11 +3,18 @@
 [Results of work with Datadog](https://drive.google.com/drive/folders/126oB2Fh039T_qFN1q_XgOH89T3wak9I3?usp=sharing)
 
 ## Hosts
-[Hosts](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
+[Hosts - Infrastructure List](https://drive.google.com/file/d/1nyeEEepVmqD2MH6ybXczBN5N0U76P-oI/view?usp=sharing)
 
 two hosts:
- - [diana1]()
- - [diana2]()
+
+host1 - diana1:
+ - [host1-host-info](https://drive.google.com/file/d/1h6OwjHd6CardCcUgkif2otXypPaUxB6l/view?usp=sharing)
+ - [host1-metrics](https://drive.google.com/file/d/1RJRkPr6QMGPYcWhmGF0-GJysocHJ72Gw/view?usp=sharing)
+ - [host1-containers](https://drive.google.com/file/d/1Y8FOScHeb3VwoQEnXL7tnfLHnWOaHaVy/view?usp=sharing)
+ - [host1-processes](https://drive.google.com/file/d/1bAyUsBTNHVg1Pz1XLZL1SdrtqiBMMTYi/view?usp=sharing)
+ - [host1-logs](https://drive.google.com/file/d/1Lg0P8PAIFCySge9rb3hyTfYih9D8o-QW/view?usp=sharing)
+
+[host2 - diana2](https://drive.google.com/file/d/1qGvzWqpxN0_Pw-7YJVNd6qx4QBmdvaDO/view?usp=sharing)
 
 ## Dashboard
 [Dashboard](https://drive.google.com/file/d/1gfw0f-VcHf9QFqNoWu9kyt7AjacEGjxQ/view?usp=sharing)
