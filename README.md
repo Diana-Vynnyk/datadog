@@ -26,6 +26,9 @@ Old Host Notebook:
 [Notebook-view2](https://drive.google.com/file/d/1ztaozKZo6WsxgNo_zmnrIiH4DRz4Y2S_/view?usp=sharing)
 
 ## Monitor
+
+[{{host.name}} is down - alert](https://drive.google.com/file/d/1KusjGzISZS2oWhVI-4gHkXq-EtYKNdZq/view?usp=sharing)
+
 [{{host.name}} is down - view1](https://drive.google.com/file/d/1SjVd7UtPRef5hSYSYM9dewiae5q-ddgo/view?usp=sharing)
 
 [{{host.name}} is down - view2](https://drive.google.com/file/d/1TtFxZVdsJhxN0MEstGc-oXp9n9J_hNl-/view?usp=sharing)
